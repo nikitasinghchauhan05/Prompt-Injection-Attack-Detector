@@ -277,3 +277,22 @@ Jaypee University of Engineering and Technology, Guna
 
 Areas of Interest:
 Artificial Intelligence • NLP • LLM Security 
+
+## Results
+
+### Model Performance Comparison
+
+![Model Performance Comparison](images/model_performance_comparison.png)
+
+### Confusion Matrices
+
+![Confusion Matrices](images/confusion_matrices.png)
+
+### ROC Curve
+
+![ROC Curve](images/ROC%20curve.png)
+
+### Custom Attack Testing
+
+![Custom Attack Testing](images/Custom%20Attack%20Testing.png)
+
